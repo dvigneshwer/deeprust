@@ -2,16 +2,19 @@
 
 ## Problem 
 
-* There is no deeplearning crate in rust-lang
-* No deeplearning crate has been developed based on continous research community feedbacks
+Below are few of the problems that we are trying to address with this crate, 
+
+* Onboard and educate poeple from scientific community to Rust 
+* There's no stable deeplearning crate in rust-lang
+* Not many ML practitioners out there really understand what's going under the hood of these so called popular ML libs out there
 
 ## Solution
 
-* Creating a crate based on collabrative work with a community of data scientist's and developers
+* Creating a ML crate with a community of data scientists and developers
 
 ## Key - Metrics
 
-* Number of real time algorithm's implemented using the crate
+* Number of different enpoints 
 
 ## Resources required
 
@@ -22,8 +25,9 @@
 
 ## Unique value proposition
 
-* Deep learning in rust with faster computation ability
-* Easy to create deep learning algorithms
+* Faster Deep learning with rust
+* Easy integration to the exisiting stack 
+* Ease with people can implement ML algorithms
 
 ## User -profiles 
 
@@ -36,15 +40,15 @@
 ## User - Channels 
 
 * [Deep-rust Gitter channel](https://gitter.im/dvigneshwer/deeprust)
-* [Mozilla TN blog](https://mozillatn.github.io/)
+* [dvigneshwer blog](https://dvigneshwer.github.io/)
 
 ## Contributors profiles 
 
 * Rust programmers
-* Researchers working with ML algos
+* Researchers working on any ML algos
 * Managerial profiles 
 
 ## Contributor Channels 
 
-* Deep learning conferences
-* Word of mouth publicity across data scientist community
+* Machine learning conferences
+* Word of mouth publicity targeting data scientist & Rust community
