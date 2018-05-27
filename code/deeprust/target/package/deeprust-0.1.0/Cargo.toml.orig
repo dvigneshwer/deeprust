@@ -9,8 +9,6 @@ repository = "https://github.com/dvigneshwer/deeprust"
 readme = " Contains modules such as confusion matrix, regularizers etc for building machine learning pipeline. The crate is still under development."
 keywords = ["machine learning", "deeplearning","data science","AI","prediction"]
 categories = ["algorithms"]
-license = "MIT"
-license-file = "https://github.com/dvigneshwer/deeprust/blob/master/license/LICENSE.md"
 
 [dependencies]
 
