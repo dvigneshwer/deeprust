@@ -3,12 +3,11 @@ name = "deeprust"
 version = "0.1.0"
 authors = ["Vigneshwer.D <dvigneshwer@gmail.com>"]
 
-
 description = "Machine learning crate in Rust (under dev)"
 documentation = "https://docs.rs/deeprust/0.1.0/"
 repository = "https://github.com/dvigneshwer/deeprust"
-readme = " https://github.com/dvigneshwer/deeprust/blob/master/code/README.md"
-keywords = ["machine learning", "deeplearning","data science","AI","prediction"]
+readme = "/home/vigneshwer/github_project_repos/deeprust/code/README.md"
+keywords = ["machine learning", "deeplearning","data science","AI","analytics"]
 categories = ["algorithms"]
 license = "MIT"
 license-file = "https://github.com/dvigneshwer/deeprust/blob/master/license/LICENSE.md"
