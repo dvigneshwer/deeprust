@@ -2,7 +2,7 @@
 
 ## Welcome note
 
-Thanks for visiting deep-rust, this is [@dvigneshwer](https://twitter.com/dvigneshwer) project lead for deeprust project. I am a data scientist by profession and a Mozilla representative in India. 
+Thanks for visiting deep-rust, this is [@dvigneshwer](https://twitter.com/dvigneshwer) I am the project lead for deeprust project. I am a ML researcher by profession and in my free time I actively volunteer for Mozilla. 
 
 ## Why Open Project
 
@@ -12,25 +12,20 @@ Main reason behind open-project is to have man-eye principle concept for getting
 
 ## Ways of contribution 
 
-* Help develop different deeplearning units of the crate
+* Help develop different ML units of the crate
 * Code documentation 
 * Fund raising activity
-* Advocacy for the crate
+* Advocacy
 
 ## Contributor Benefits 
 
 * Mentoring on rust and deeplearning algorithms
 * Network oppurtunity with researchers & data scientist community
-* Recognition via [MozillaTN blog](https://mozillatn.github.io/)
-
-## Monetary benefits
-
-* Funds will be raised via training programs & donations for procuring test GPU hardware and stipends for top contributors 
+* Montary benefits - incase anyone funds this project in the near future
 
 ## Communication channels
 
 * [Deep-rust Gitter channel](https://gitter.im/dvigneshwer/deeprust)
-* [Mozilla TN blog](https://mozillatn.github.io/)
 
 ## Coding practice
 
