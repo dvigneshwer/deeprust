@@ -1,1 +1,0 @@
-initSidebarItems({"mod":[["confusion_matrix","Functions inside the confusion_matrix module helps to benchmark the model's performance ## Confusion Matrix Confusion matrix is a matrix used to measure the performance of a classifier. Explanation of the confusion matrix terminology can be found in DataSchool's blog post."]]});

@@ -1,1 +1,0 @@
-initSidebarItems({"fn":[["l2_reg","L2 Regularizer - Takes in lambda and theta as arguments for calculating the l2_reg value"]]});
