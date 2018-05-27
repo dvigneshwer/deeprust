@@ -1,6 +1,6 @@
 <img src="https://cloud.githubusercontent.com/assets/5075497/25305466/2b244dc8-2799-11e7-8756-87e49e70bb6b.png" width="480" height="150" />
 
-# DeepRust - DeepLearning in Rust
+# DeepRust - Machine learning in Rust
 
 [![Gitter](https://badges.gitter.im/dvigneshwer/deeprust.svg)](https://gitter.im/dvigneshwer/deeprust?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://travis-ci.org/dvigneshwer/deeprust.svg?branch=master)](https://travis-ci.org/dvigneshwer/deeprust)
@@ -14,8 +14,8 @@ To create a deeplearning crate in rust aiming to create a great experience for M
 Deeplearning crate in rust will have the following features:
 
 * Researcher friendly algo development
-* Contains all the state of deeplearning units
-* Community feedback based architecture development 
+* Contains all the state of art machine learning algorithms
+* High performant machine learning crate
 
 ## Getting-Started
 
