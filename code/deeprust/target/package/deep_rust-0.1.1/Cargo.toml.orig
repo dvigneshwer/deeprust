@@ -1,0 +1,16 @@
+[package]
+name = "deep_rust"
+version = "0.1.1"
+authors = ["Vigneshwer.D <dvigneshwer@gmail.com>"]
+
+description = "Machine learning crate in Rust (under dev)"
+repository = "https://github.com/dvigneshwer/deeprust"
+readme = "/home/vigneshwer/github_project_repos/deeprust/code/README.md"
+keywords = ["machine-learning", "deeplearning","data-science","AI","analytics"]
+categories = ["algorithms"]
+license = "MIT"
+license-file = "/home/vigneshwer/github_project_repos/deeprust/license/LICENSE.md"
+
+[dependencies]
+
+[dev-dependencies]

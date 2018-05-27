@@ -53,7 +53,7 @@ fn main() {
 }
 ~~~~
 
-For more details on the API's head over to the [official documentation](https://docs.rs/deeprust/0.1.0/deeprust/) There are more examples over there 
+For more details on the different APIs of the crate head over to the [official documentation](https://docs.rs/deep_rust) There are more examples over there.
 
 ## Setting up the project locally
 
