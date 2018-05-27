@@ -14,7 +14,7 @@ Below are few of the problems that we are trying to address with this crate,
 
 ## Key - Metrics
 
-* Number of different enpoints 
+* Stable implementation of the various machine learning algorithms out there
 
 ## Resources required
 
