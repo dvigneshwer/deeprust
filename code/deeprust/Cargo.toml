@@ -4,7 +4,8 @@ version = "0.1.0"
 authors = ["Vigneshwer.D <dvigneshwer@gmail.com>"]
 
 
-documentation = "Machine learning crate in Rust"
+description = "Machine learning crate in Rust"
+documentation = "https://docs.rs/deeprust/0.1.0/"
 repository = "https://github.com/dvigneshwer/deeprust"
 readme = " Contains modules such as confusion matrix, regularizers etc for building machine learning pipeline. The crate is still under development."
 keywords = ["machine learning", "deeplearning","data science","AI","prediction"]
