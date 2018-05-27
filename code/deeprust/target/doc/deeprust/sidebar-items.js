@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["Confusionmatrix","Confusionmatrix takes in four fields which are expresions which is converted into the confusion_matrix struct of the metrics module"]],"mod":[["metrics","Module for benchmarking and analyzing the model's performance"],["reg","Module for performing regularization operations "]]});

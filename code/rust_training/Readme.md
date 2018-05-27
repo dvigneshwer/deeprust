@@ -1,4 +1,5 @@
 # Rust-intro
+
 Introduction to Rust programming language
 
 ## Overview
@@ -152,7 +153,7 @@ rustc ./code_samples/code_name.rs -A warnings
 ./code_name
 ~~~~
 
-#Reference link
+## Reference link
 
 * [Rust Book](https://doc.rust-lang.org/book)
 * [Rust Video tutorial](https://www.youtube.com/watch?v=U1EFgCNLDB8)

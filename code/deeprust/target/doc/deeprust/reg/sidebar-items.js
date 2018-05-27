@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["regularizer","Functions inside these modules are used to penalize the update inorder to avoid over fitting and making a generalized module"]]});
