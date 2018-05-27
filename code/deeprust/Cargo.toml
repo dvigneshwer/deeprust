@@ -4,7 +4,6 @@ version = "0.1.0"
 authors = ["Vigneshwer.D <dvigneshwer@gmail.com>"]
 
 description = "Machine learning crate in Rust (under dev)"
-documentation = "https://docs.rs/deep_rust/0.1.0/"
 repository = "https://github.com/dvigneshwer/deeprust"
 readme = "/home/vigneshwer/github_project_repos/deeprust/code/README.md"
 keywords = ["machine-learning", "deeplearning","data-science","AI","analytics"]
