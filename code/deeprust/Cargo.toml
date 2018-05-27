@@ -1,6 +1,6 @@
 [package]
 name = "deep_rust"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Vigneshwer.D <dvigneshwer@gmail.com>"]
 
 description = "Machine learning crate in Rust (under dev)"
